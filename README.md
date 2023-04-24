@@ -30,7 +30,7 @@ You will also need to have R Studio on your machine. You can download the latest
 ### Installing
 Clone this repository onto your local machine.
 ```
-git clone https://github.com/MuhammadAhmedSuhail/Admissions-Analysis-using-R.git
+git clone https://github.com/MuhammadAhmedSuhail/Churn-Analysis-using-R.git
 ```
 Run `analysis.r` on RStudio to analyze the data and retrieve valuable information.
 
