@@ -13,7 +13,7 @@ The dataset (Retail_Customer.csv.zip) provided for this project has a total of 1
 - sales: total sales amount for the purchase
 The reference date is the last date of the 5th week, and a customer will churn if he/she has no visit in a week.
 
-Tasks
+## Tasks
 The following tasks were performed in the project:
 - Calculated the week with the highest earnings.
 - Identified the most valued customer.
